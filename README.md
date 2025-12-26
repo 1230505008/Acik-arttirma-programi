@@ -1,7 +1,6 @@
 # Acik-arttirma-programi
 
 
-KLU ALGORİTMA VE PROGRAMLAMA DERSİ 2. KISA SINAV
 
 
 GİRİŞ
